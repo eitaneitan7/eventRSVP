@@ -1,0 +1,407 @@
+[
+  {
+    "id": "1",
+    "title": "React Native Meetup",
+    "date": "2025-06-14T16:53:00Z",
+    "location": "Zoom",
+    "rsvpCount": 64,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "2",
+    "title": "JS Conf IL",
+    "date": "2025-06-21T18:00:00Z",
+    "location": "Jerusalem",
+    "rsvpCount": 116,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "3",
+    "title": "Fullstack Bootcamp Showcase",
+    "date": "2025-06-28T18:00:00Z",
+    "location": "Hadera",
+    "rsvpCount": 113,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "4",
+    "title": "TypeScript Deep Dive Workshop",
+    "date": "2025-07-05T18:00:00Z",
+    "location": "Browser Basecamp",
+    "rsvpCount": 120,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "5",
+    "title": "Tech Talks & Chill",
+    "date": "2025-07-12T18:00:00Z",
+    "location": "HackCenter Haifa",
+    "rsvpCount": 40,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "6",
+    "title": "AI & Coffee ☕️",
+    "date": "2025-07-19T18:00:00Z",
+    "location": "HackCenter Haifa",
+    "rsvpCount": 54,
+    "guestCount": 1,
+    "hasUserRsvped": true
+  },
+  {
+    "id": "7",
+    "title": "Hackathon: Save the Internet",
+    "date": "2025-07-26T18:00:00Z",
+    "location": "GourmetHub TLV",
+    "rsvpCount": 50,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "8",
+    "title": "React Native x Expo Secrets",
+    "date": "2025-08-02T18:00:00Z",
+    "location": "Hadera",
+    "rsvpCount": 133,
+    "guestCount": 1,
+    "hasUserRsvped": true
+  },
+  {
+    "id": "9",
+    "title": "How We Scaled to 1 Billion Requests/Day",
+    "date": "2025-08-09T18:00:00Z",
+    "location": "Slack HQ IL",
+    "rsvpCount": 83,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "10",
+    "title": "Firebase, but it's Dark Magic",
+    "date": "2025-08-16T18:00:00Z",
+    "location": "Node Cafe, Tel Aviv",
+    "rsvpCount": 122,
+    "guestCount": 1,
+    "hasUserRsvped": true
+  },
+  {
+    "id": "11",
+    "title": "The Git Rebase Masterclass (🔥 only)",
+    "date": "2025-08-23T18:00:00Z",
+    "location": "Herzliya",
+    "rsvpCount": 28,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "12",
+    "title": "Frontend in the Forest 🌲 (no Wi-Fi)",
+    "date": "2025-08-30T18:00:00Z",
+    "location": "TechHub Tel Aviv",
+    "rsvpCount": 108,
+    "guestCount": 1,
+    "hasUserRsvped": true
+  },
+  {
+    "id": "13",
+    "title": "JS Anonymous - Weekly Support Group",
+    "date": "2025-09-06T18:00:00Z",
+    "location": "Tel Aviv",
+    "rsvpCount": 134,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "14",
+    "title": "You've Found Me 🥚",
+    "date": "2025-09-13T18:00:00Z",
+    "location": "Beer Sheva",
+    "rsvpCount": 13,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "15",
+    "title": "State Management Showdown: Redux vs. Signals",
+    "date": "2025-09-20T18:00:00Z",
+    "location": "Slack HQ IL",
+    "rsvpCount": 46,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "16",
+    "title": "Dark Mode Appreciation Night",
+    "date": "2025-09-27T18:00:00Z",
+    "location": "TechHub Tel Aviv",
+    "rsvpCount": 63,
+    "guestCount": 1,
+    "hasUserRsvped": true
+  },
+  {
+    "id": "17",
+    "title": "Escape the Callback Hell",
+    "date": "2025-10-04T18:00:00Z",
+    "location": "UI Bakery TLV",
+    "rsvpCount": 91,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "18",
+    "title": "The CSS Battle Royale",
+    "date": "2025-10-11T18:00:00Z",
+    "location": "Carmel Forest",
+    "rsvpCount": 20,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "19",
+    "title": "TypeScript Typing Olympics",
+    "date": "2025-10-18T18:00:00Z",
+    "location": "Herzliya",
+    "rsvpCount": 136,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "20",
+    "title": "Lint & Chill",
+    "date": "2025-10-25T18:00:00Z",
+    "location": "TechHub Tel Aviv",
+    "rsvpCount": 134,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "21",
+    "title": "Toast Notifications IRL",
+    "date": "2025-11-01T18:00:00Z",
+    "location": "React Native Cafe",
+    "rsvpCount": 8,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "22",
+    "title": "Hack the Snack: Coding & Cooking",
+    "date": "2025-11-08T18:00:00Z",
+    "location": "Carmel Forest",
+    "rsvpCount": 114,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "23",
+    "title": "Async/Await Therapy Session",
+    "date": "2025-11-15T18:00:00Z",
+    "location": "Browser Basecamp",
+    "rsvpCount": 19,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "24",
+    "title": "Console.log Anonymous",
+    "date": "2025-11-22T18:00:00Z",
+    "location": "WeHack, Beer Sheva",
+    "rsvpCount": 64,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "25",
+    "title": "CI/CD Speed Dating",
+    "date": "2025-11-29T18:00:00Z",
+    "location": "React Native Cafe",
+    "rsvpCount": 32,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "26",
+    "title": "Backend Karaoke Night (Ports & Adapters edition)",
+    "date": "2025-12-06T18:00:00Z",
+    "location": "UI Bakery TLV",
+    "rsvpCount": 147,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "27",
+    "title": "Refactor Retreat 🧘‍♂️",
+    "date": "2025-12-13T18:00:00Z",
+    "location": "WeHack, Beer Sheva",
+    "rsvpCount": 86,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "28",
+    "title": "GraphQL vs REST Debate Club",
+    "date": "2025-12-20T18:00:00Z",
+    "location": "Dead Sea",
+    "rsvpCount": 120,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "29",
+    "title": "Magic of Memoization",
+    "date": "2025-12-27T18:00:00Z",
+    "location": "Nodevalley",
+    "rsvpCount": 47,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "30",
+    "title": "Next.js Futures & Fortune Cookies",
+    "date": "2026-01-03T18:00:00Z",
+    "location": "Carmel Forest",
+    "rsvpCount": 109,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "31",
+    "title": "Design Tokens & Donuts",
+    "date": "2026-01-10T18:00:00Z",
+    "location": "Tel Aviv",
+    "rsvpCount": 45,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "32",
+    "title": "Firebase Friday 🔥",
+    "date": "2026-01-17T18:00:00Z",
+    "location": "DevBar Jerusalem",
+    "rsvpCount": 43,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "33",
+    "title": "Docker & Darts",
+    "date": "2026-01-24T18:00:00Z",
+    "location": "TechHub Tel Aviv",
+    "rsvpCount": 90,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "34",
+    "title": "Kubernetes & Karaoke",
+    "date": "2026-01-31T18:00:00Z",
+    "location": "HackCenter Haifa",
+    "rsvpCount": 100,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "35",
+    "title": "React Native Real Talk",
+    "date": "2026-02-07T18:00:00Z",
+    "location": "DevBar Jerusalem",
+    "rsvpCount": 64,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "36",
+    "title": "The One with All the Hooks",
+    "date": "2026-02-14T18:00:00Z",
+    "location": "GourmetHub TLV",
+    "rsvpCount": 82,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "37",
+    "title": "Babel Unchained",
+    "date": "2026-02-21T18:00:00Z",
+    "location": "Slack HQ IL",
+    "rsvpCount": 30,
+    "guestCount": 1,
+    "hasUserRsvped": true
+  },
+  {
+    "id": "38",
+    "title": "Testing Talks: Jest and the Best",
+    "date": "2026-02-28T18:00:00Z",
+    "location": "Jerusalem",
+    "rsvpCount": 48,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "39",
+    "title": "RxJS Rehab",
+    "date": "2026-03-07T18:00:00Z",
+    "location": "Tel Aviv",
+    "rsvpCount": 135,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "40",
+    "title": "Monorepo Madness",
+    "date": "2026-03-14T18:00:00Z",
+    "location": "TechHub Tel Aviv",
+    "rsvpCount": 44,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "41",
+    "title": "WTF is Webpack?!",
+    "date": "2026-03-21T18:00:00Z",
+    "location": "Carmel Forest",
+    "rsvpCount": 46,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "42",
+    "title": "The Great Package.json Debate",
+    "date": "2026-03-28T18:00:00Z",
+    "location": "UI Bakery TLV",
+    "rsvpCount": 12,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "43",
+    "title": "ScrollView Smoothies",
+    "date": "2026-04-04T18:00:00Z",
+    "location": "Zoom",
+    "rsvpCount": 5,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "44",
+    "title": "MobX Gone Wild",
+    "date": "2026-04-11T18:00:00Z",
+    "location": "Carmel Forest",
+    "rsvpCount": 19,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  },
+  {
+    "id": "45",
+    "title": "The Art of Commit Messages",
+    "date": "2026-04-18T18:00:00Z",
+    "location": "Nodevalley",
+    "rsvpCount": 102,
+    "guestCount": 0,
+    "hasUserRsvped": false
+  }
+]
